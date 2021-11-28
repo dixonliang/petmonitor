@@ -8,3 +8,7 @@ This is the repo for a pet monitor project. This project uses a Raspberry Pi. Th
 The report in the repo goes through the entirety of the code as well as what dependencies are needed to run the file provided. The code is written in python and uses TensorFlow Lite. Twilio is used to create SMS notifications. The video link provided also goes through a demo. 
 
 <img src="./dog.jpg" alt="alt text" width=400 height=300>
+
+<img src="./layout.jpg" alt="alt text" width=400 height=300>
+
+<img src="./summary_text.jpg" alt="alt text" width=400 height=300>
