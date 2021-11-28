@@ -21,7 +21,7 @@ This is the repo for a pet monitor using a Raspberry Pi. This project was also t
 Prototype set up of the pet monitor
 </p>
 
-The report in the repo goes through the entirety of the code as well as what dependencies are needed to run the file provided. The code is written in python and uses TensorFlow Lite. Twilio is used to create SMS notifications. The video link provided also goes through a demo. 
+The report in the repo goes through the entirety of the code as well as what dependencies are needed to run the file provided. The code is written in python and uses TensorFlow Lite. Picamera is also used for the video capture. Twilio is used to create SMS notifications. The video link provided also goes through a demo. 
 
 Changes can be made to the code for personal use. The Twilio credentials will need to be updated as will the coordinates of locations that want to be monitored. Additional functionality can be added such as live video monitoring and live interaction with the servo from application development. Would be happy to hear about potential developments!
 
