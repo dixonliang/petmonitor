@@ -9,6 +9,6 @@ The report in the repo goes through the entirety of the code as well as what dep
 
 <img src="./dog.jpg" alt="alt text" width=400 height=300>
 
-<img src="./layout.jpg" alt="alt text" width=400 height=300>
+<img src="./layout.jpgg" alt="alt text" width=400 height=300>
 
-<img src="./summary_text.jpg" alt="alt text" width=400 height=300>
+<img src="./summary_text.jpg" alt="alt text" width=400 height=400>
