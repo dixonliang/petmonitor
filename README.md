@@ -14,7 +14,7 @@ Changes can be made to the code for personal use. The Twilio credentials will ne
 <figure>
 <img src="./dog.jpg" alt="alt text" width=400 height=300>
 <figcaption align = "center"><b>Dog Classificationr</b></figcaption>
-<\figure>
+</figure>
 
 <img src="./layout.jpeg" alt="alt text" width=400 height=300>
 Prototype set up of the monitor
