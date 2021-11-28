@@ -23,6 +23,5 @@ Changes can be made to the code for personal use. The Twilio credentials will ne
 
 <figure>
 <img src="./summary_text.jpg" alt="alt text" width=400 height=400>
-Summary text sent at the end of the day
 <figcaption align = "center"><b>Dog Classification</b></figcaption>
 </figure>
