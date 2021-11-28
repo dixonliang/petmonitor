@@ -11,8 +11,10 @@ The report in the repo goes through the entirety of the code as well as what dep
 
 Changes can be made to the code for personal use. The Twilio credentials will need to be updated as will the coordinates of locations that want to be monitored. Additional functionality can be added such as live video monitoring and live interaction with the servo from application development. Would be happy to hear about potential developments!
 
+<figure>
 <img src="./dog.jpg" alt="alt text" width=400 height=300>
-Dog classification
+<figcaption align = "center"><b>Dog Classificationr</b></figcaption>
+<\figure>
 
 <img src="./layout.jpeg" alt="alt text" width=400 height=300>
 Prototype set up of the monitor
