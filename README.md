@@ -11,9 +11,7 @@
 Dog (Leo) Classification by TensorFlow Lite
 </p>
 
-This is the repo for a pet monitor using a Raspberry Pi. This project was also the final project of the course Internet of Things (CS-437) at the University of Illinois Urbana-Champaign as part of the Masters in Computer Science program. 
-
-The pet monitor provides the capability to monitor where a pet spends time in specific locations. For my case, I wanted to see how much of the time my dog spent sleeping and how many times he went to his water bowl. In addition, based on the elapsed time, a servo based dispesner also releases treats. For each activity, the code also sents a text message to my phone. A summary text at the end of the day is also sent containing what he has done. 
+This is the repo for a pet monitor using a Raspberry Pi. This project was also the final project of the course Internet of Things (CS-437) at the University of Illinois Urbana-Champaign as part of the Masters in Computer Science program. The pet monitor provides the capability to monitor where a pet spends time in specific locations. For my case, I wanted to see how much of the time my dog spent sleeping and how many times he went to his water bowl. In addition, based on the elapsed time, a servo based dispesner also releases treats. For each activity, the code also sents a text message to my phone. A summary text at the end of the day is also sent containing what he has done. 
 
 <p align = "center">
 <img src="./layout.jpeg" alt="alt text" width=400 height=300>
