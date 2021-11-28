@@ -1,7 +1,7 @@
 # Pet Monitor and Mini Treat Dispenser 
 
-#### Video Demo: 
-#### Report and Tutorial:
+#### Video Demo: https://youtu.be/eyrnKKqTISk
+#### Report and Tutorial: https://github.com/dixonliang/petmonitor/blob/main/IoT_Final_Project.pdf
 
 <p align = "center">
 <img src="./dog.jpg" alt="alt text" width=400 height=300>
