@@ -3,7 +3,13 @@
 ### Video Demo: 
 ### Report and Tutorial:
 
+<p align = "center">
 <img src="./dog.jpg" alt="alt text" width=400 height=300>
+</p>
+
+<p align = "center">
+Fig.1 - 4K Mountains Wallpaper
+</p>
 
 This is the repo for a pet monitor using a Raspberry Pi. This project was also the final project of the course Internet of Things (CS-437) at the University of Illinois Urbana-Champaign as part of the Masters in Computer Science program. 
 
